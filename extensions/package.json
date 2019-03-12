@@ -2,7 +2,8 @@
   "dependencies": {
     "coc-css": "^1.0.7",
     "coc-html": "^1.0.7",
-    "coc-json": "^1.0.11",
+    "coc-json": "^1.0.12",
+    "coc-prettier": "^1.0.7",
     "coc-solargraph": "^1.0.7",
     "coc-tsserver": "^1.1.29"
   }

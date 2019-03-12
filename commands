@@ -1,0 +1,3 @@
+tsserver.executeAutofix
+tsserver.organizeImports
+prettier.formatFile
