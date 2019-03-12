@@ -1,11 +1,11 @@
 {
-  "extension": {
-    "coc-json": {
-      "ts": 1549810557851
+    "extension": {
+        "coc-json": {
+            "ts": 1549810557851
+        },
+        "coc-solargraph": {
+            "ts": 1549050940207
+        }
     },
-    "coc-solargraph": {
-      "ts": 1549050940207
-    }
-  },
-  "lastUpdate": 1552340113843
+    "lastUpdate": 1552394075204
 }
